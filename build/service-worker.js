@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speech-recognition-javascript/precache-manifest.3b47c556f3aeedf87f389dadfa87a685.js"
+  "/speech-recognition-javascript/precache-manifest.2b83f8b406e3261c8dd6db6c0a6ea07f.js"
 );
 
 self.addEventListener('message', (event) => {
