@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.50feca8e.chunk.css",
-    "main.js": "/static/js/main.f2385c21.chunk.js",
-    "main.js.map": "/static/js/main.f2385c21.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.956cc719.chunk.js": "/static/js/2.956cc719.chunk.js",
-    "static/js/2.956cc719.chunk.js.map": "/static/js/2.956cc719.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.946892e3fd3d21694d9ccf015cfe512c.js": "/precache-manifest.946892e3fd3d21694d9ccf015cfe512c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.50feca8e.chunk.css.map": "/static/css/main.50feca8e.chunk.css.map",
-    "static/media/logo.png": "/static/media/logo.f3661b17.png"
+    "main.css": "/speech-recognition-javascript/static/css/main.50feca8e.chunk.css",
+    "main.js": "/speech-recognition-javascript/static/js/main.48420f4d.chunk.js",
+    "main.js.map": "/speech-recognition-javascript/static/js/main.48420f4d.chunk.js.map",
+    "runtime~main.js": "/speech-recognition-javascript/static/js/runtime~main.c430a24c.js",
+    "runtime~main.js.map": "/speech-recognition-javascript/static/js/runtime~main.c430a24c.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/speech-recognition-javascript/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.956cc719.chunk.js": "/speech-recognition-javascript/static/js/2.956cc719.chunk.js",
+    "static/js/2.956cc719.chunk.js.map": "/speech-recognition-javascript/static/js/2.956cc719.chunk.js.map",
+    "index.html": "/speech-recognition-javascript/index.html",
+    "precache-manifest.3b47c556f3aeedf87f389dadfa87a685.js": "/speech-recognition-javascript/precache-manifest.3b47c556f3aeedf87f389dadfa87a685.js",
+    "service-worker.js": "/speech-recognition-javascript/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/speech-recognition-javascript/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.50feca8e.chunk.css.map": "/speech-recognition-javascript/static/css/main.50feca8e.chunk.css.map",
+    "static/media/logo.png": "/speech-recognition-javascript/static/media/logo.f3661b17.png"
   }
 }

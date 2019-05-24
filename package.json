@@ -2,6 +2,7 @@
   "name": "speech-recognition-javascript",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://kalaivanan97.github.io/speech-recognition-javascript/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
